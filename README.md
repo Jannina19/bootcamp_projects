@@ -1,9 +1,11 @@
 # bootcamp_projects
 Data science batch 6 
 
-# Sprint 01 - Google Sheets -> [Homework]()
-
- -Dynamic Query 
+# Sprint 01 - Google Sheets 
+  
+  Google sheets-> [Homework]()
+include
+- Dynamic Query 
 - Convert date
 - ID Card Parser using Regular Expressions
 
@@ -13,8 +15,8 @@ Build restaurant databases (5 tables) -> [restaurant](https://replit.com/@Warisa
 
 # Sprint 03 - Programming
 
-Create Chatbot to order Pizza with 8-10 dialogues -> [chatbot](https://replit.com/@WarisaraBoontha/Batch6ChatbotOrderPizza#main.r)
-Create Pao Ying Chub game using R [Pao Ying Chub game](https://replit.com/@WarisaraBoontha/Pao-Ching-Chub#main.r)
+- Create Chatbot to order Pizza with 8-10 dialogues -> [chatbot](https://replit.com/@WarisaraBoontha/Batch6ChatbotOrderPizza#main.r)
+- Create Pao Ying Chub game using R [Pao Ying Chub game](https://replit.com/@WarisaraBoontha/Pao-Ching-Chub#main.r)
 
 # Sprint 04 - Data Transformation
 
@@ -23,7 +25,7 @@ Create Pao Ying Chub game using R [Pao Ying Chub game](https://replit.com/@Waris
 
 # Sprint 05 - Data Visualization
 
-Build 5-6 charts with ggplot and convert to .pdf using R markdown >- [Data viz project](https://github.com/Jannina19/bootcamp_projects/blob/main/program_R/HW_Dataviz.pdf)
+- Build 5-6 charts with ggplot and convert to .pdf using R markdown >- [Data viz project](https://github.com/Jannina19/bootcamp_projects/blob/main/program_R/HW_Dataviz.pdf)
 
 
 # Sprint 06 - Essential Statistics
@@ -42,8 +44,8 @@ K-Fold cross validation
 
 # Sprint 08 - Python Programming
 
-Create Pao Ying Chub game using python -> 
-Create 'class' ATM with 5 methods  usinng python ->
+- Create Pao Ying Chub game using python -> 
+- Create 'class' ATM with 5 methods  usinng python -> [ATM](https://datalore.jetbrains.com/notebook/aEY1B94nxQbTC8y0e0G6Ml/ssGKf5svM3FnzUOJVYSNnw/)
 
 # Sprint 09 - Essential Python for Data Analyst
 
@@ -53,5 +55,5 @@ Create 'class' ATM with 5 methods  usinng python ->
 
 # Sprint 10 - Dashboard
 
-Create dashboard using Looker Studio -> [Hollywoods Most Profitable Stories](https://lookerstudio.google.com/s/h6eKUz9fVdA)
-Create dashboard using Tableau Public -> [Morality by country report 1970 - 2010](https://public.tableau.com/app/profile/warisara.boonthahom/viz/Moralitybycountryreport1970-2010/Dashboard1)
+- Create dashboard using Looker Studio -> [Hollywoods Most Profitable Stories](https://lookerstudio.google.com/s/h6eKUz9fVdA)
+- Create dashboard using Tableau Public -> [Morality by country report 1970 - 2010](https://public.tableau.com/app/profile/warisara.boonthahom/viz/Moralitybycountryreport1970-2010/Dashboard1)
