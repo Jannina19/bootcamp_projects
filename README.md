@@ -13,7 +13,7 @@ include
 
 Build restaurant databases (5 tables) -> [restaurant](https://replit.com/@WarisaraBoontha/SQLHomeworkBatch-6-My-restaurant#main.sql)
 
-# Sprint 03 - Programming
+# Sprint 03 - R Programming 
 
 - Create Chatbot to order Pizza with 8-10 dialogues -> [chatbot](https://replit.com/@WarisaraBoontha/Batch6ChatbotOrderPizza#main.r)
 - Create Pao Ying Chub game using R [Pao Ying Chub game](https://replit.com/@WarisaraBoontha/Pao-Ching-Chub#main.r)
