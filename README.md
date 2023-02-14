@@ -3,7 +3,7 @@ Data science batch 6
 
 # Sprint 01 - Google Sheets 
   
-  Google sheets-> [Homework]()
+  Google sheets-> [Homework](https://github.com/Jannina19/bootcamp_projects/tree/main/spreadsheet)
 include
 - Dynamic Query 
 - Convert date
