@@ -44,7 +44,7 @@ K-Fold cross validation
 
 # Sprint 08 - Python Programming
 
-- Create Pao Ying Chub game using python -> 
+- Create Pao Ying Chub game using python -> [Pao Ying Chub](https://colab.research.google.com/drive/1ewPUdJa5i9hO0dYlyT3OwO4wkJNqz5-F?usp=sharing)
 - Create 'class' ATM with 5 methods  usinng python -> [ATM](https://datalore.jetbrains.com/notebook/aEY1B94nxQbTC8y0e0G6Ml/ssGKf5svM3FnzUOJVYSNnw/)
 
 # Sprint 09 - Essential Python for Data Analyst
