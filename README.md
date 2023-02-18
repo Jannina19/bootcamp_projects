@@ -20,7 +20,7 @@ Build restaurant databases (5 tables) -> [restaurant](https://replit.com/@Warisa
 
 # Sprint 04 - Data Transformation
 
-Analyze nycflights13 using dplyr -> [HW_nyc].(https://datalore.jetbrains.com/notebook/aEY1B94nxQbTC8y0e0G6Ml/gjxSZOLwlYBALjSnMC7HQ3/)
+Analyze nycflights13 using dplyr -> [HW_nyc](https://datalore.jetbrains.com/notebook/aEY1B94nxQbTC8y0e0G6Ml/gjxSZOLwlYBALjSnMC7HQ3/)
 ลองสร้าง PostgreSQL server ของตัวเองบน https://www.elephantsql.com/ แล้ว write tables ขึ้นไปบน server
 
 # Sprint 05 - Data Visualization
