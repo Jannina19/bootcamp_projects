@@ -35,12 +35,12 @@ include
 วิเคราะห์ข้อมูลด้วย AB test ง่ายๆใน Excel/ Google Sheets
 
 # Sprint 07 - Essential Machine Learning
+Build Models using caret library -> [Models](https://github.com/Jannina19/bootcamp_projects/blob/main/Machine%20Learning/ml_model.r)
+- Regression
+- Classification
+- K-Fold cross validation
 
-สร้างโมเดลด้วย caret อย่างน้อย 2-3 โมเดล ใช้เทคนิคด้านล่าง
-Regression
-Classification
-K-Fold cross validation
-นักเรียนสามารถหา free dataset ได้จาก data.world หรือ kaggle นะครับ จะลองเสิร์ชจาก google datasets ก็ได้นะครับ ⭐
+- Source data: [Wine Quality](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset)
 
 # Sprint 08 - Python Programming
 
