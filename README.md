@@ -21,7 +21,7 @@ Build restaurant databases (5 tables) -> [restaurant](https://replit.com/@Warisa
 # Sprint 04 - Data Transformation
 
 Analyze nycflights13 using dplyr -> [nycflight13_by_dplyr](https://datalore.jetbrains.com/notebook/aEY1B94nxQbTC8y0e0G6Ml/gjxSZOLwlYBALjSnMC7HQ3/)
-ลองสร้าง PostgreSQL server ของตัวเองบน https://www.elephantsql.com/ แล้ว write tables ขึ้นไปบน server
+Create my own PostgreSQL server on https://www.elephantsql.com/, then write tables into server -> [RPostgreSQL](https://github.com/Jannina19/bootcamp_projects/blob/main/program_R/Rpostgres_sql.R)
 
 # Sprint 05 - Data Visualization
 
