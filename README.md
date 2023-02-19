@@ -11,7 +11,7 @@ include
 
 # Sprint 02 - SQL Databases
 
-Build restaurant databases (5 tables) -> [restaurant](https://replit.com/@WarisaraBoontha/SQLHomeworkBatch-6-My-restaurant#main.sql)
+- Build restaurant databases (5 tables) -> [restaurant](https://replit.com/@WarisaraBoontha/SQLHomeworkBatch-6-My-restaurant#main.sql)
 
 # Sprint 03 - R Programming 
 
@@ -20,8 +20,8 @@ Build restaurant databases (5 tables) -> [restaurant](https://replit.com/@Warisa
 
 # Sprint 04 - Data Transformation
 
-Analyze nycflights13 using dplyr -> [nycflight13_by_dplyr](https://datalore.jetbrains.com/notebook/aEY1B94nxQbTC8y0e0G6Ml/gjxSZOLwlYBALjSnMC7HQ3/)
-Create my own PostgreSQL server on https://www.elephantsql.com/, then write tables into server -> [RPostgreSQL](https://github.com/Jannina19/bootcamp_projects/blob/main/program_R/Rpostgres_sql.R)
+- Analyze nycflights13 using dplyr -> [nycflight13_by_dplyr](https://datalore.jetbrains.com/notebook/aEY1B94nxQbTC8y0e0G6Ml/gjxSZOLwlYBALjSnMC7HQ3/)
+- Create my own PostgreSQL server on https://www.elephantsql.com/, then write tables into server -> [RPostgreSQL](https://github.com/Jannina19/bootcamp_projects/blob/main/program_R/Rpostgres_sql.R)
 
 # Sprint 05 - Data Visualization
 
