@@ -30,9 +30,6 @@ include
 
 # Sprint 06 - Essential Statistics
 
-ทำการบ้าน titanic ใน on demand video ด้วย R
-ลองสร้างโมเดล linear regression ใน Excel/ Google Sheets
-วิเคราะห์ข้อมูลด้วย AB test ง่ายๆใน Excel/ Google Sheets
 
 # Sprint 07 - Essential Machine Learning
 Build Models using caret library -> [Models](https://github.com/Jannina19/bootcamp_projects/blob/main/Machine%20Learning/ml_model.r)
@@ -49,9 +46,6 @@ Build Models using caret library -> [Models](https://github.com/Jannina19/bootca
 
 # Sprint 09 - Essential Python for Data Analyst
 
-ทำการบ้านในคอร์ส pandas foundation
-ลองเขียน requests ดึงข้อมูลจาก public API
-ลองสร้าง simple ML model ด้วย sklearn
 
 # Sprint 10 - Dashboard
 
